@@ -1,0 +1,29 @@
+/* body{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center; */
+/* }
+ */
+
+body{
+    width: 100%;
+    margin: 0 100px;
+    .img_titulo{
+        /* background-color: aqua; */
+        width: 100%;
+        padding: 0 45%;
+        
+    }
+}
+hr{
+    color: blue;
+}
+
+h2{
+    color: aquamarine;
+}
+
+p{
+    padding-left: 32px;
+}
